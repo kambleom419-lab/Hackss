@@ -24,12 +24,7 @@
 - [Video Learning](#-video-learning)
 - [Database Schema](#-database-schema)
 - [Configuration](#-configuration)
-- [Development](#-development)
-- [Troubleshooting](#-troubleshooting)
 - [Roadmap](#-roadmap)
-- [Contributing](#-contributing)
-- [License](#-license)
-
 ---
 
 ## 🌟 Overview
@@ -415,7 +410,7 @@ class Converters {
 
 ## 👥 Team
 
-**Project Maintainers**: [@iamkazbrekker](https://github.com/iamkazbrekker), [@kambleom419-labs](https://github.com/kambleom419-labs)
+**Project Maintainers**: [@iamkazbrekker](https://github.com/iamkazbrekker), [@kambleom419-lab](https://github.com/kambleom419-lab)
 
 
 
